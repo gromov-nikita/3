@@ -6,22 +6,23 @@ starting from the beginning, e.g., If you run java Fibonacci 5 (where Fibonacci 
 name of the class) the output will be: 1, 1, 2, 3, 5.
  */
 class C9 {
-    void func(int n) {
-        int ans = 1,k = 0,m = 0;
-        if(n <= 0){
-            return;
+    //1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181
+    void FibonacciPrint(int ans) {
+        System.out.print(ans + " ");
+    }
+    int Fibonacci(int n, int pred, int ans) {
+        if((ans + pred) <= n){
+            int save = ans;
+            ans += pred;
+            pred = save;
+            FibonacciPrint(Fibonacci(n,pred,ans));
         }
-        //1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181
-        while(ans <= n) {
-            System.out.print(ans + " ");
-            k = ans;
-            ans += m;
-            m = k;
-        }
+        return ans;
     }
     public static void main(String[] args) {
         C9 obj = new C9();
-        obj.func(5000);
+        obj.FibonacciPrint(obj.Fibonacci(10000,0,1));
+        System.out.println(1);
     }
 
 }

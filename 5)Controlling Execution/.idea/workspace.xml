@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8878c878-8c7b-4e10-ad74-99e0fbc57c15" name="Default Changelist" comment="" />
+    <list default="true" id="558514cd-0c47-44f3-a583-9825501cf425" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../4)Controlling Execution/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10)Controlling Execution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10)Controlling Execution/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10)Controlling Execution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10)Controlling Execution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10)Controlling Execution/out/production/10)Controlling Execution/C10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../10)Controlling Execution/out/production/10)Controlling Execution/C10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10)Controlling Execution/src/C10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10)Controlling Execution/src/C10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4)Controlling Execution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4)Controlling Execution/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4)Controlling Execution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4)Controlling Execution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Controlling Execution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Controlling Execution/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Controlling Execution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Controlling Execution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Controlling Execution/out/production/9)Controlling Execution/C9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Controlling Execution/out/production/9)Controlling Execution/C9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9)Controlling Execution/src/C9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Controlling Execution/src/C9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1kZ4Fc6lX2tZuAR2aKyFB5ISmar" />
+  <component name="ProjectId" id="1kqI58tdtTTseamRx0DqfLwuHI7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -42,38 +54,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8878c878-8c7b-4e10-ad74-99e0fbc57c15" name="Default Changelist" comment="" />
-      <created>1605894676255</created>
+      <changelist id="558514cd-0c47-44f3-a583-9825501cf425" name="Default Changelist" comment="" />
+      <created>1606421508855</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605894676255</updated>
+      <updated>1606421508855</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1606420232012">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1607108320926">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606420232012" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1606420232012">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607108320926" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1607108320926">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606420232012" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1606420232012">
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607108320926" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1607108320926">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606420232012" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1606420232012">
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607108320926" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1607108320926">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606420232012" />
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1606416503487">
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607108320926" />
+    <state x="378" y="198" width="609" height="348" key="com.intellij.ide.util.TipDialog" timestamp="1607106895240">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1606416503487" />
-    <state x="346" y="59" key="search.everywhere.popup" timestamp="1606378898313">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="346" y="59" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1606378898313" />
+    <state x="378" y="198" width="609" height="348" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1607106895240" />
   </component>
 </project>

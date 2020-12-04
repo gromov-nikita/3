@@ -11,26 +11,24 @@ Write a program that finds all the 4-digit vampire numbers. (Suggested by Dan Fo
 public class C10 {
     public static void main(String[] args) {
         Integer ans;
-        String sAns;
-        int counter = 0;
-        for (Integer i = 13; i < 100; i++) {
+        String sAns, s;
+        String save;
+        int counter = 0,index;
+        for (Integer i = 15; i < 100; i++) {
             for (Integer j = i; j < 100; j++) {
                 while ((ans = j * i) <= 1000) {
                     j++;
                 }
                 sAns = ans.toString();
-                char sAll[] = (i.toString() + j.toString()).toCharArray();
+                s = i.toString() + j.toString();
                 for(int k = 0; k != 4; k++) {
-                    for(int n = 0; n != 4; n++) {
-                        if(sAns.charAt(k) == sAll[n]) {
-                            counter++;
-                            sAll[n] = 'q';
-                            break;
-                        }
+                    if((index = sAns.indexOf(save = "" + s.charAt(k))) != -1){
+                        counter++;
+                        sAns = sAns.replaceFirst(save,"q");
                     }
                 }
                 if(counter == 4) {
-                    System.out.println(ans + " = " + i + "*" + j);
+                    System.out.println(ans + " = " + i + " * " + j);
                 }
                 counter = 0;
             }
