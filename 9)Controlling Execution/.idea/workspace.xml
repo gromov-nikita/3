@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc8273af-d819-42b7-a216-9d9932af22a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../10)Controlling Execution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10)Controlling Execution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/9)Controlling Execution/C9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/9)Controlling Execution/C9.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/C9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
