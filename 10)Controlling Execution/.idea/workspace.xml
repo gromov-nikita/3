@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14989b6e-c023-40f7-ad06-ca3b6fbffc43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../4)Controlling Execution/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/10)Controlling Execution/C10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/10)Controlling Execution/C10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4)Controlling Execution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4)Controlling Execution/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4)Controlling Execution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4)Controlling Execution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5)Controlling Execution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5)Controlling Execution/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5)Controlling Execution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5)Controlling Execution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5)Controlling Execution/out/production/5)Controlling Execution/C5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../5)Controlling Execution/out/production/5)Controlling Execution/C5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5)Controlling Execution/src/C5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5)Controlling Execution/src/C5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9)Controlling Execution/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Controlling Execution/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9)Controlling Execution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Controlling Execution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9)Controlling Execution/out/production/9)Controlling Execution/C9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Controlling Execution/out/production/9)Controlling Execution/C9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9)Controlling Execution/src/C9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../9)Controlling Execution/src/C9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +21,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="C10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -64,22 +51,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1607108368044">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1614103268548">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607108368044" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1607108368044">
+    <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1614103268548" />
+    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1614103268548">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607108368044" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1607108368044">
+    <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1614103268548" />
+    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1614103268548">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607108368044" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1607108368044">
+    <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1614103268548" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1614103268548">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607108368044" />
+    <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1614103268548" />
     <state width="1322" height="221" key="GridCell.Tab.1.bottom" timestamp="1606685067237">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -96,5 +83,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1322" height="221" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1606685067234" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1614101918040">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1614101918040" />
   </component>
 </project>
