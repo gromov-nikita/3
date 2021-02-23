@@ -5,12 +5,12 @@ a method that takes an integer as an argument and displays that many Fibonacci n
 starting from the beginning, e.g., If you run java Fibonacci 5 (where Fibonacci is the
 name of the class) the output will be: 1, 1, 2, 3, 5.
  */
-class C9 {
+class Fibonacci {
     //1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181
-    void fibonacciPrint(int ans) {
+    public void fibonacciPrint(int ans) {
         System.out.print(ans + " ");
     }
-    int fibonacci(int n, int pred, int ans) {
+    public int fibonacci(int n, int pred, int ans) {
         fibonacciPrint(ans);
         if((ans + pred) <= n) {
             int save = ans;
@@ -21,7 +21,7 @@ class C9 {
         return ans;
     }
     public static void main(String[] args) {
-        C9 obj = new C9();
+        Fibonacci obj = new Fibonacci();
         obj.fibonacci(10000,0,1);
     }
 

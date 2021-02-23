@@ -8,7 +8,7 @@ Examples include:
 2187 = 27 * 81
 Write a program that finds all the 4-digit vampire numbers. (Suggested by Dan Forhan.)
  */
-public class C10 {
+public class VampireNumbers {
     public static void main(String[] args) {
         Integer ans;
         String sAns, s;
